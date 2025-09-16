@@ -17,14 +17,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagoj&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoj&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently learning
 - Architectures, patterns, and best practices  
 
