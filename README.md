@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Santiago
 
-💻 I'm a software developer.  
-🚀 Currently focused on **JavaScript, TypeScript, React, Node.js, Express, and PostgreSQL**.  
+<small>💻 I'm a software developer.</small><br>
+<small>🚀 Currently focused on <strong>JavaScript, TypeScript, React, Node.js, Express, and PostgreSQL</strong>.</small>
+
 ---
 
 ## 🌱 Currently learning
